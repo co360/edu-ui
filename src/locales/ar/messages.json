@@ -26,5 +26,9 @@
   "signUp": "إنشاء حساب",
   "name": "الأسم",
   "email": "البريد الشخصي",
-  "passConfirm": "تأكيد كلمة المرور"
+  "passConfirm": "تأكيد كلمة المرور",
+  "bio": "السيرة الذاتية",
+  "linkedin": " Linkedin حسابك بموقع",
+  "github": "Github حسابك بموقع",
+  "twitter": "Twitter حسابك بموقع"
 }
